@@ -1,0 +1,6 @@
+bung87.vscode-gemfile
+castwide.solargraph
+kaiwood.endwise
+MS-CEINTL.vscode-language-pack-ja
+rebornix.ruby
+sianglim.slim
