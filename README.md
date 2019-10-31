@@ -22,3 +22,8 @@ code --list-extensions > extensions.txt
 ./uninstall.sh
 ```
 
+## 設定ファイル
+
+```
+cp ~/Library/Application\ Support/Code/User/settings.json ./settings.json  
+```
