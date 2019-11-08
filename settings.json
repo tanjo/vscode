@@ -23,7 +23,7 @@
     "solargraph.diagnostics": true,
     "[ruby]": {
         "editor.defaultFormatter": "rebornix.ruby",
-        "editor.formatOnSave": true,
+        "editor.formatOnSave": false,
         "editor.formatOnSaveTimeout": 5000
     },
     "ruby.lint": {
@@ -32,4 +32,5 @@
     "ruby.format": "rubocop",
     "files.trimTrailingWhitespace": true,
     "files.trimFinalNewlines": true,
+    "python.jediEnabled": false,
 }

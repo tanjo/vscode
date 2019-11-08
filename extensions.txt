@@ -14,6 +14,7 @@ esbenp.prettier-vscode
 formulahendry.auto-close-tag
 formulahendry.auto-rename-tag
 gencer.html-slim-scss-css-class-completion
+Gruntfuggly.todo-tree
 humao.rest-client
 ionutvmi.path-autocomplete
 kaiwood.endwise
@@ -21,6 +22,7 @@ mechatroner.rainbow-csv
 miguel-savignano.ruby-symbols
 mrmlnc.vscode-duplicate
 MS-CEINTL.vscode-language-pack-ja
+ms-python.python
 msjsdiag.debugger-for-chrome
 mushan.vscode-paste-image
 naumovs.color-highlight

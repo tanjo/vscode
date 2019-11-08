@@ -7,7 +7,7 @@
 ### 拡張機能一覧更新
 
 ```
-code --list-extensions > extensions.txt    
+code --list-extensions > extensions.txt
 ```
 
 ### インストール
@@ -25,5 +25,5 @@ code --list-extensions > extensions.txt
 ## 設定ファイル
 
 ```
-cp ~/Library/Application\ Support/Code/User/settings.json ./settings.json  
+cp ~/Library/Application\ Support/Code/User/settings.json ./settings.json
 ```
