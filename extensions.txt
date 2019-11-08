@@ -20,6 +20,7 @@ ionutvmi.path-autocomplete
 kaiwood.endwise
 mechatroner.rainbow-csv
 miguel-savignano.ruby-symbols
+misogi.ruby-rubocop
 mrmlnc.vscode-duplicate
 MS-CEINTL.vscode-language-pack-ja
 ms-python.python
