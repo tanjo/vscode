@@ -22,6 +22,7 @@ kaiwood.endwise
 mechatroner.rainbow-csv
 miguel-savignano.ruby-symbols
 misogi.ruby-rubocop
+mohsen1.prettify-json
 mrmlnc.vscode-duplicate
 MS-CEINTL.vscode-language-pack-ja
 ms-python.python

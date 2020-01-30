@@ -26,10 +26,6 @@
         "editor.formatOnSave": false,
         "editor.formatOnSaveTimeout": 5000
     },
-    "ruby.lint": {
-        "rubocop": true
-    },
-    "ruby.format": "rubocop",
     "files.trimTrailingWhitespace": true,
     "files.trimFinalNewlines": true,
     "python.jediEnabled": false,
