@@ -29,4 +29,9 @@
     "files.trimTrailingWhitespace": true,
     "files.trimFinalNewlines": true,
     "python.jediEnabled": false,
+	"files.exclude": {
+		"**/.git": false
+    },
+    "todo-tree.tree.showScanModeButton": false,
+    "python.languageServer": "Microsoft",
 }
